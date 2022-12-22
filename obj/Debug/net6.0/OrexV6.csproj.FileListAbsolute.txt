@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\OrexV6\bin\Debug\net6.0\OrexV6.exe
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\OrexV6\bin\Debug\net6.0\OrexV6.deps.json
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\OrexV6\bin\Debug\net6.0\OrexV6.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\OrexV6\bin\Debug\net6.0\OrexV6.dll
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\OrexV6\bin\Debug\net6.0\OrexV6.pdb
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\OrexV6\obj\Debug\net6.0\OrexV6.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\OrexV6\obj\Debug\net6.0\OrexV6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\OrexV6\obj\Debug\net6.0\OrexV6.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\OrexV6\obj\Debug\net6.0\OrexV6.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\OrexV6\obj\Debug\net6.0\OrexV6.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\OrexV6\obj\Debug\net6.0\OrexV6.dll
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\OrexV6\obj\Debug\net6.0\refint\OrexV6.dll
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\OrexV6\obj\Debug\net6.0\OrexV6.pdb
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\OrexV6\obj\Debug\net6.0\OrexV6.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\УЧЁБА\c#\OrexV6\obj\Debug\net6.0\ref\OrexV6.dll
