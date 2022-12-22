@@ -1,4 +1,4 @@
-﻿/*
+﻿/* Задача через массив
 int[] CreateArray(int size)// размер массива
 {
     int[] array = new int[size]; //выделили память
@@ -54,7 +54,7 @@ int num = Convert.ToInt32(Console.ReadLine());
 int result = KolVoBolheNull(num);
 Console.WriteLine($"Кол-во элементов >0 = {result}");
 */
-
+/*
 //Задача 43: Напишите программу, которая найдёт точку пересечения двух прямых,
 //заданных уравнениями y = k1 * x + b1, y = k2 * x + b2; значения b1, k1, b2 
 //и k2 задаются пользователем.
@@ -81,7 +81,8 @@ double b2 = Convert.ToDouble(Console.ReadLine());
 if(k1 == k2 && b1 == b2)//проверка на совпадение прямых
     Console.WriteLine("Прямые совпадают");
 
-else if(k1 == k2)//проверка на параллельность прямых
+else 
+    if(k1 == k2)//проверка на параллельность прямых
     Console.WriteLine("Линии параллельны");
 
 else
@@ -89,3 +90,4 @@ else
     double[] tochka = TochkaPeresecheniyaPryamix(k1, b1, k2, b2);
     Console.WriteLine( $"Coordinates of intersection point is ({tochka[0]}: {tochka[1]})");
 }
+*/
